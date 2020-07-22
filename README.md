@@ -53,5 +53,10 @@
     "name": "麻花影视",
     "url": "https://www.ubo110.com/",
     "imgUrl": "https://www.ubo110.com/template/mytheme/statics/image/20190815/3b5ea6b6a.png"
+  },
+  {
+    "name": "电视直播",
+    "url": "http://m.hao5.net/",
+    "imgUrl": ""
   }
 ]
