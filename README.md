@@ -1,5 +1,9 @@
 1+[
-  
+  {
+    "name": "虎牙直播",
+    "url": "https://www.huya.com/",
+    "imgUrl": "https://oss.neets.cc/browsers/website-navigation/66343539050745856.png"
+  },
   {
     "name": "企鹅体育（NBA赛事）",
     "url": "https://live.qq.com/",
