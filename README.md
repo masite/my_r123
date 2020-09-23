@@ -14,11 +14,7 @@
     "url": "https://v.yewan.org/",
     "imgUrl": "https://v.yewan.org/favicon.ico"
   },
-  {
-    "name": "黑夜影视",
-    "url": "http://www.heiye.cc/index.html",
-    "imgUrl": "http://www.heiye.cc/statics/img/favicon.ico"
-  },
+  
   {
     "name": "麻花影视",
     "url": "https://www.ubo110.com/",
